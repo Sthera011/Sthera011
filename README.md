@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sthera011
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning HTML,CSS,JavaScript, React and Node.js
-- 💞️ I’m looking to collaborate on small real-world Web Development Tasks/projects, even Voluntarily  
+- 💞️ I’m looking to collaborate on small real-world Web Development Tasks/projects, and Selenium for Automatin. Even Voluntarily work for learning 
 - 📫 How to reach me, here is my email address sthexuza@gmail.com
 
 <!---
